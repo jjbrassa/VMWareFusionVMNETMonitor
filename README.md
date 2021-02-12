@@ -7,6 +7,6 @@ https://communities.vmware.com/t5/VMware-Fusion-Discussions/Share-host-VPN-with-
 
 ### Instructions
 1. Clone this repo
-2. Run ./instal.sh
+2. Run ./install.sh
 
 
